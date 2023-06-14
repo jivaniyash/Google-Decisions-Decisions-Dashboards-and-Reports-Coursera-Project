@@ -14,6 +14,8 @@ Cyclistic has partnered with the city of New York to provide shared bikes. Curre
 
 Cyclistic’s Customer Growth Team is creating a business plan for next year. The team wants to understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations.
 
+[Tableau_Dashborad_Cyclistic.twb](https://github.com/jivaniyash/Google-Decisions-Decisions-Dashboards-and-Reports-Coursera-Project/blob/main/Tableau_Dashborad_Cyclistic.twb) is a tableau desktop file which includes 3 dashborads of trip analysis which is available in [Tableau Public](https://public.tableau.com/app/profile/yash.jivani/viz/Yash_Tableau_Dashborad/GoogleBusinessIntelligenceCertificateYashJivani-Cyclistic).
+
 ---
 
 ### Disclaimer 
